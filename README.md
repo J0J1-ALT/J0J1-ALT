@@ -1,3 +1,4 @@
-Hola, Soy J0J1-ALT🎧
-
-<a href="https://ibb.co/LCg8qwM"><img src="https://i.ibb.co/khDxrnp/J0J1-ALT.png" alt="J0J1-ALT" border="0"></a>
+<div align="center">
+<h1 align="center">Hola, soy J0J1A-LT</a> 🎧</h1>
+</div>
+<img src="https://i.ibb.co/khDxrnp/J0J1-ALT.png">
