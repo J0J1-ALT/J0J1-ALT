@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy J0J1-ALT</a> 🎧</h1>
 </div>
 <img src="https://i.postimg.cc/mrDdhq53/J0J1-ALT.png">
-<h3 align="cemter">me😄:</h3>
+<h3 align="center">me😄:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jhonathan-gutierrez-meneses-1bb2ab1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhonathan-gutierrez-meneses-1bb2ab1b1/" height="30" width="40" /></a>
 <a href="https://discord.gg/jwside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jwside" height="30" width="40" /></a>
