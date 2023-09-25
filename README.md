@@ -13,6 +13,7 @@
     </a>
   </p>
 </div>
+<div>
 <h3 align="center">Languages and Tools💻:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -64,3 +65,4 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
   </a>
 </p>
+</div>
